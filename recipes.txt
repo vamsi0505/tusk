@@ -5,5 +5,8 @@ paastha
 mutton
 chicken
 
+beans
+pizza
+
 
 thank you :)
